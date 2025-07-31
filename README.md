@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
