@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
