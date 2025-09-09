@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3859-maximum-product-of-two-digits](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
