@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Indexed Tree
