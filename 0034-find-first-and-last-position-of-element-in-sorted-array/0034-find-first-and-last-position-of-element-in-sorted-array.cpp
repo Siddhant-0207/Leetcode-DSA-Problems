@@ -41,7 +41,7 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         vector <int> ans ;
         int first = firstoccurence(nums,target);
-        
+        if ( first == -1) return ans = {-1,-1};
         int last = lastoccurence( nums,target);
         return ans = {first,last};
     }
