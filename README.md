@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4058-compute-alternating-sum](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4058-compute-alternating-sum](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/4058-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
