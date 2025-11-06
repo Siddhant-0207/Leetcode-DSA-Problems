@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [3859-maximum-product-of-two-digits](https://github.com/Siddhant-0207/Leetcode-DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
